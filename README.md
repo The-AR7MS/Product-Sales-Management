@@ -64,7 +64,6 @@ A desktop application built with **PySide6** for managing product inventory and 
 ---
 ## 💡 Screenshots  
 
-You can upload your screenshots to the repository and use them here. Replace the URL with your image path.
 
 ![Screenshot 1](https://github.com/The-AR7MS/Product-Sales-Management/blob/main/Screenshot%202025-10-22%20093516.png)
 
