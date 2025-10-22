@@ -40,16 +40,16 @@ A desktop application built with **PySide6** for managing product inventory and 
 
 ## ⚙️ How to Run
 
-1. Install required packages:
+1. Install required packages using `requirements.txt`:
 
    ```bash
-   pip install PySide6 jdatetime
+   pip install -r requirements.txt
    ```
 2. Make sure `products.db` is in the same folder as the script.
 3. Run the application:
 
    ```bash
-   python yassalamat.py
+   python store_pyside.py
    ```
 4. The app will launch in **full screen** with all functionality ready to use.
 
@@ -62,9 +62,5 @@ A desktop application built with **PySide6** for managing product inventory and 
 * Can be bundled with **PyInstaller** for a standalone executable.
 
 ---
-
-## 💡 Screenshots
-
-*(Add your screenshots here)*
 
 This project makes inventory and sales management simple, colorful, and efficient! 🎉
